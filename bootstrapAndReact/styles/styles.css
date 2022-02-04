@@ -1,0 +1,66 @@
+body{
+  background-color: #00ADB5;
+
+}
+
+.navbarStyles{
+  background-color: #222831;
+
+}
+.navbar-brand{
+
+}
+
+.getstartedbtn{
+  background-color: #EEEEEE;
+
+}
+.firstSection{
+  height: 655px;
+
+}
+.secondSection{
+  height: 655px;
+  background-color: #EEEEEE;
+}
+.thirdSection{
+  height: 655px;
+  background-color: #00ADB5;
+}
+.container-fluid{
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.nav-item{
+  padding-left: 15px;
+  padding-right: 15px;
+}
+.first-row-element{
+  padding-top: 100px;
+}
+.first-col-style{
+  height: 500px;
+  background-color: #00ADB5;
+}
+.second-col-style{
+  background-color: #11999E;
+
+}
+.first-col-button-section{
+  margin-left: 25%;
+
+
+}
+.first-col-text{
+  height: 400px;
+}
+.img1{
+  height: 300px;
+}
+.img2{
+  height: 300px;
+  background-color: blue;
+}
+.img3{
+  height: 300px;
+}
